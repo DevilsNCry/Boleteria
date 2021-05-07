@@ -27,7 +27,7 @@
         "python-shell": "^1.0.8",
         "timeago.js": "^4.0.0-beta.2",
         "tinify": "^1.6.0-beta.2",
-        "underscore": "^1.9.1",
+        "underscore": "^1.12.1",
         "uuid": "^3.3.3",
         "winston": "^3.2.1"
     },
